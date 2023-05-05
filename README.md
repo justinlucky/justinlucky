@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justinlucky
 - 👀 I’m interested in . learning more about web development..
-- 🌱 I’m currently learning . javascript, basic HTML and css..
+- 🌱 I’m have successfully completed learning . javascript, HTML ,CSS and Figma..
 - 💞️ I’m looking to collaborate on any projects which javascript is involved...
 - 📫 I have completed my react projects, now calling myself UI/UX designer and developer.
 - 👍 I am good in Web development using react, php.
